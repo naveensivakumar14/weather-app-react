@@ -2,6 +2,7 @@ import React from 'react';
 import './index.css';
 import { useState } from "react"
 import axios from "axios"
+import { clear } from '@testing-library/user-event/dist/clear';
 
 //Weather app component
 function WeathetApp(){
