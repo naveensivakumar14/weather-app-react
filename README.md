@@ -2,7 +2,7 @@ Weather App - Real-time Weather Updates ☀️🌧️
 This Weather App provides real-time weather updates for any location using data fetched from a Weather API. Built with React.js,
  it showcases the use of React components, state management with useState, data fetching with Axios, and handling asynchronous operations with Promises.
 
-![Weather API](/public/
+![Weather API](/public/weather-app.jpg)
 
 🌟 Features
 Real-Time Weather Data: Fetches and displays current weather conditions for any location using the Weather API.
